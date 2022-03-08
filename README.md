@@ -6,8 +6,8 @@ Repository ini akan berisi materi, module, maupun cheatsheet tentang syntax basi
 
 ## Daftar Modul
 * Modul 1 - Running Module
-* [Modul 2 - Pengenalan Bahasa Pemrograman Go]()
-* [Modul 3 - Tipe Data dan Instruksi Dasar]()
+* [Modul 2 - Pengenalan Bahasa Pemrograman Go](https://github.com/abdullahnz/Praktikum-Alpro/tree/master/Modul%202%20-%20Pengenalan%20Bahasa%20Pemrograman%20Go)
+* [Modul 3 - Tipe Data dan Instruksi Dasar](https://github.com/abdullahnz/Praktikum-Alpro/tree/master/Modul%203%20-%20Tipe%20Data%20dan%20Instruksi)
 * Modul 4 - Struktur Kontrol Perulangan
 
 ## Materi Tambahan Golang
